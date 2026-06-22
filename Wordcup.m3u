@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-logo="https://www.bt.com/content/dam/bt/global/logos/BT_Logo_purple.png"group-title="BT Sport",BT Sport
 https://storage.googleapis.com/mslakers/btsport/manifest.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%C4%8CT_sport_logo.png/512px-%C4%8CT_sport_logo.png",ČT Sport (720p)
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" group-title="Live Event",Serie A
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" group-title="Live Event",Caze TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/960px-Logo_bein_sports_1.png"group-title="Bein",Bein Sport 1
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
